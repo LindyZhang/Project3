@@ -1,0 +1,8 @@
+Game Results: 
+Alive Players: l d a a a 
+Rooms Cleared: 1
+Gold Remaining: 100
+ Rings: 0 Necklaces: 0 Bracelets: 0 Circlet: 0 Goblets: 0
+ Spaces explored: 1
+Monsters Defeated: 1
+Turns Taken: 9
